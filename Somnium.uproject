@@ -18,10 +18,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		},
-		{
 			"Name": "StaticMeshEditorModeling",
 			"Enabled": true
 		},
