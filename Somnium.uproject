@@ -32,14 +32,6 @@
 		{
 			"Name": "Metasound",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		},
-		{
-			"Name": "UdpMessaging",
-			"Enabled": false
 		}
 	]
 }
